@@ -1,0 +1,37 @@
+# Visual Studio files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# VS Code settings
+.vscode/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Dotnet files
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET Core secrets
+secrets.json
